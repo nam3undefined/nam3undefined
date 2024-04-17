@@ -7,5 +7,5 @@
 - DE: GNOME 46
 - Code Editor: VS Code
 - VScode theme: Dark Modern
-- Vscode icons: catppuccin icons
+- VScode icons: catppuccin icons
 - Font (DE, VScode): Iosevka
