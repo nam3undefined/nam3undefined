@@ -6,6 +6,6 @@
 ## What i use?
 - DE: GNOME 46
 - Code Editor: VS Code
-- VScode theme: Bluloco Dark
+- VScode theme: Dark Modern
 - VScode icons: catppuccin icons
 - Font (DE, VScode): Iosevka
