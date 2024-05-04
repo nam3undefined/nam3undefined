@@ -6,8 +6,10 @@
 - normal student, programmer, engineer, *nix/linux
 ## What i use?
 - DE: GNOME 46
+- DE Theme(all): WhiteSur-Dark
 - DE Theme: WhiteSur
 - Code Editor: VS Code
-- VScode theme: Dark Modern
+- VScode theme: Github
 - VScode icons: catppuccin icons
-- Font (DE, VScode): Iosevka
+- Font DE: inter
+- Font IDE: Iosevka
