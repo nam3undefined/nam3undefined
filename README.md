@@ -1,5 +1,6 @@
 # **PLAYER**
 ![img](picture.jpg)
+![img](desktop.png)
 ![codewars](https://www.codewars.com/users/playe_cli/badges/micro)
 ## Hi there!
 - a normal guy doing random things :3
