@@ -6,6 +6,5 @@
 - normal student, programmer, engineer, *nix/linux
 ## What i use?
 - DE: GNOME 46 Vanilla
-- DE Theme: WhiteSur
 - Code Editor: VS Code
 - VScode theme: Github
