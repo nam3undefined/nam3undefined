@@ -1,6 +1,5 @@
 # **PLAYER**
 ![img](pic.jpeg)
-![codewars](https://www.codewars.com/users/playe_cli/badges/micro)
 ## Hi there!
 - a normal guy doing random things :3
 - normal student, programmer, engineer, *nix/linux
