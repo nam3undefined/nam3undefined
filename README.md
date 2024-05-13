@@ -4,6 +4,7 @@
 - a normal guy doing random things :3
 - normal student, programmer, engineer, *nix/linux
 ## What i use?
-- DE: GNOME 46 Vanilla
-- Code Editor: VS Code
-- VScode theme: Github
+- Distro: Elementary OS 7.1 (send me 10$ to get version 8 :3 )
+- IDE : Visual Studio Code
+- IDE font : Fira Code | Iosevka
+- IDE icons : Material Icons for VScode
