@@ -1,5 +1,5 @@
 # **PLAYER**
-![img](pic.jpeg)
+![img](pic.jpg)
 ## Hi there!
 - a normal guy doing random things :3
 - normal student, programmer, engineer, *nix/linux
