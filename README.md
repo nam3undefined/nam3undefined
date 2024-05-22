@@ -4,7 +4,7 @@
 - a normal guy doing random things :3
 - normal student, programmer, engineer, *nix/linux
 ## What i use?
-- Distro: Arch Linux (Vanilla GNOME)
+- Distro: Ubuntu 24.04 
 - IDE : Visual Studio Code
-- IDE font : Fira Code | Iosevka
+- IDE font : Iosevka
 - IDE icons : Material Icons for VScode
