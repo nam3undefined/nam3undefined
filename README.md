@@ -1,8 +1,8 @@
 # **PLAYER**
 ![img](pic.jpg)
 ## Hi there!
-- a normal guy doing random things :3
-- normal student, programmer, engineer, *nix/linux
+- a stupid guy doing random things ;)
+- normal student, programmer, engineer
 ## What i use?
 - Distro: Ubuntu 24.04 
 - IDE : Visual Studio Code
