@@ -8,3 +8,5 @@
 - IDE : Visual Studio Code
 - IDE font : Fira code
 - IDE icons : Material Icons for VScode
+
+# Yes, i use snap packages...
