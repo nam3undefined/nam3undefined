@@ -4,9 +4,9 @@
 - a stupid guy doing random things ;)
 - normal student, programmer, engineer
 ## What i use?
-- Distro: Ubuntu 24.04
+- Distro: Fedora 40
 - IDE : Visual Studio Code
-- IDE font : Fira code
-- IDE icons : Material Icons for VScode
+- IDE font : Iosevka
+- IDE icons : Iosevka
 
 # Yes, i use snap packages...
