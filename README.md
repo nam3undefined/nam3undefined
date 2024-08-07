@@ -8,5 +8,3 @@
 - IDE : Visual Studio Code
 - IDE font : Iosevka
 - IDE icons : Iosevka
-
-# Yes, i use snap packages...
