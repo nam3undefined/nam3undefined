@@ -4,7 +4,7 @@
 - a stupid guy doing random things ;)
 - normal student, programmer, engineer
 ## What i use?
-- Distro: Fedora 40
+- Distro: Arch Linux
 - IDE : Visual Studio Code
 - IDE font : Iosevka
-- IDE icons : Iosevka
+- IDE icons : Material Icons
