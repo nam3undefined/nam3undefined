@@ -4,7 +4,7 @@
 - a stupid guy doing random things ;)
 - normal student, programmer, engineer
 ## What i use?
-- Distro: - Linux
+- OS: macOS Big Sur
 - System font: Comfortaa/Inter
 - IDE : Visual Studio Code
 - IDE font : Iosevka
