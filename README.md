@@ -4,6 +4,6 @@
 - a stupid guy doing random things ;)
 - normal student, programmer, engineer
 ## What i use?
-- OS: macOS Catalina
+- OS: macOS Big Sur
 - IDE : Visual Studio Code
 - IDE icons : Material Icons
