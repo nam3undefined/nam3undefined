@@ -7,4 +7,4 @@
 - OS: macOS Big Sur
 - IDE : Visual Studio Code
 - IDE icons : Material Icons
-- IDE theme : Catpuccin
+- IDE theme : Github Dark
